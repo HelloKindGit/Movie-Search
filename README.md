@@ -1,1 +1,1 @@
-React App to Search Movies
+React App to Search Movies from OMDb API
